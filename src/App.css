@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color: darkgreen;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+  background-color: orange;
+  color: white;
+  padding: 10px;
+  outline: auto;
+}
+
+main h1 {
+  text-align: center;
+  padding-top: 90px;
+}
+main {
+  padding: 20px;
+  background-color: aquamarine;
+  height: 300px;
+  width: 800px;
+  margin: 5.5%;
+  margin-left: 20%;
+  outline: auto;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
